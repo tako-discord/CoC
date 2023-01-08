@@ -9,6 +9,6 @@ By using Tako, you agree to be bound by these terms of service. If you do not ag
 5. We reserve the right to terminate your access to Tako at any time, for any reason, and without notice.
 6. You are responsible for maintaining the confidentiality of your account and password, and you agree to accept responsibility for all activities that occur under your account.
 7. These terms of service may be updated
-8. Luconia is permitted to use any of the code or selfhost Tako, because they harassed the Founder of Tako and caused Drama otherwise.
+8. Luconia Productions (Name of 8th January 2023) and everything that is a part of Luconia Productions is permitted to use any of the code or to selfhost Tako, because they harassed the Founder of Tako and caused Drama otherwise.
 or modified at any time without notice. It is your responsibility to
 stay informed of any changes to these terms.
